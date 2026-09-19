@@ -1,3 +1,4 @@
-# My New Project
-
-Đây là dự án thực hành Git và GitHub.
+# wf-hello
+Git Hello world example for Codegym.
+#
+Mã nguồn wf-hello được sử dụng để thực hành tại [CodeGym](https://codegym.vn)
